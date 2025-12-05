@@ -1,6 +1,6 @@
 # Cardastro 
 
-![Cardastro](https://img.shields.io/badge/CarCadastro-Project-blue?style=for-the-badge)
+![Cardastro](https://img.shields.io/badge/Cardastro-Project-blue?style=for-the-badge)
 
 Uma aplicação simples e prática para cadastrar e gerenciar carros. Ideal para controlar frotas pequenas ou testar funcionalidades de autenticação e banco de dados com Firebase.
 
